@@ -1,0 +1,38 @@
+2022-08-31 22:23:15 ERROR Parser:19 - Arguments should be in the format --args='<File>'.
+2022-08-31 22:24:16 ERROR Parser:39 - Error parsing file < logfile.txt >
+2022-08-31 22:26:19 ERROR Parser:39 - Error parsing file < logfile.txt >
+2022-08-31 22:26:58 ERROR Parser:39 - Error parsing file < logfile.txt >
+2022-08-31 22:30:03 ERROR Parser:39 - Error parsing file < /logile.extraction/target/logfile.txt >
+2022-08-31 22:30:41 ERROR Parser:39 - Error parsing file < logile.extraction.target.logfile.txt >
+2022-08-31 22:40:18 INFO  DAO:20 - Opening database connection at < hsqldb/logs >
+2022-08-31 22:40:18 INFO  ENGINE:? - Checkpoint start
+2022-08-31 22:40:18 INFO  ENGINE:? - checkpointClose start
+2022-08-31 22:40:18 INFO  ENGINE:? - checkpointClose end
+2022-08-31 22:40:18 INFO  ENGINE:? - Checkpoint end - txts: 1
+2022-08-31 22:40:18 INFO  DAO:28 - Creating Events table
+2022-08-31 22:40:18 DEBUG Parser:31 - Parsing file <C:\Users\dheer\eclipse-workspace\logile.extraction\target\logfile.txt> for events.
+2022-08-31 22:40:18 DEBUG DAO:53 - Retrieving all DB entries in < Events > table.
+2022-08-31 22:40:18 DEBUG DAO:58 - Alert for EventID <scsmbstgra>
+2022-08-31 22:40:18 DEBUG DAO:58 - Alert for EventID <scsmbstgrc>
+2022-08-31 22:40:18 WARN  DAO:66 - Deleting all entries in DB table < Events >.
+2022-08-31 22:40:18 INFO  DAO:46 - Closing DB connection.
+2022-08-31 22:57:04 INFO  DAO:20 - Opening database connection at < hsqldb/logs >
+2022-08-31 22:57:04 INFO  ENGINE:? - checkpointClose start
+2022-08-31 22:57:04 INFO  ENGINE:? - checkpointClose end
+2022-08-31 22:57:04 INFO  DAO:28 - Creating Events table
+2022-08-31 22:57:04 DEBUG Parser:31 - Parsing file <C:\Users\dheer\eclipse-workspace\logile.extraction\src\main\resources\logfile.txt> for events.
+2022-08-31 22:57:04 DEBUG DAO:53 - Retrieving all DB entries in < Events > table.
+2022-08-31 22:57:04 DEBUG DAO:58 - Alert for EventID <scsmbstgra>
+2022-08-31 22:57:04 DEBUG DAO:58 - Alert for EventID <scsmbstgrc>
+2022-08-31 22:57:04 WARN  DAO:66 - Deleting all entries in DB table < Events >.
+2022-08-31 22:57:04 INFO  DAO:46 - Closing DB connection.
+2022-08-31 23:16:43 INFO  DAO:20 - Opening database connection at < hsqldb/logs >
+2022-08-31 23:16:44 INFO  ENGINE:? - checkpointClose start
+2022-08-31 23:16:44 INFO  ENGINE:? - checkpointClose end
+2022-08-31 23:16:44 INFO  DAO:28 - Creating Events table
+2022-08-31 23:16:44 DEBUG Parser:31 - Parsing file <C:\Users\dheer\eclipse-workspace\logfile.extraction\src\main\resources\logfile.txt> for events.
+2022-08-31 23:16:44 DEBUG DAO:53 - Retrieving all DB entries in < Events > table.
+2022-08-31 23:16:44 DEBUG DAO:58 - Alert for EventID <scsmbstgra>
+2022-08-31 23:16:44 DEBUG DAO:58 - Alert for EventID <scsmbstgrc>
+2022-08-31 23:16:44 WARN  DAO:66 - Deleting all entries in DB table < Events >.
+2022-08-31 23:16:44 INFO  DAO:46 - Closing DB connection.
